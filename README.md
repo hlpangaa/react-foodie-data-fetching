@@ -1,4 +1,4 @@
-Foodie Portal
+# Foodie Portal
 
 ## Application Workflow
 - Built a React-based portal to allow users to view random food recipes or search sepcific type of food and feedback
