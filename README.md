@@ -7,7 +7,7 @@
 ## Tech Stack
 - React
 - CSS
-- [themealdb](https://www.themealdb.com/) API
+- [themealdb API](https://www.themealdb.com/)
 - [react-icons](https://react-icons.github.io/react-icons/icons?name=bs)
 
 ## Features Demo
